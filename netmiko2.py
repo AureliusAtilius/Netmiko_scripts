@@ -21,7 +21,7 @@ s4 = {
     'password': 'cisco'
 }
 
-all_devices = [iosv_l2_s1, iosv_l2_s2, iosv_l2_s3]
+all_devices = [s1,s2,s3]
 
 for devices in all_devices:
     net_connect = ConnectHandler(**devices)
