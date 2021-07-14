@@ -6,4 +6,4 @@ Open up SSH sessions with switches on the network defined in the script. Once a 
 
 netmiko1 starterscript.py
 Open up SSH session with a host and returns the output of 'show 
-ip int brief' command.
+ip int brief' command.  
